@@ -1,7 +1,7 @@
 ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION(('STEP AP214'),'1');
-FILE_NAME('cctmp_7CD7071F-9F12-41D9-9C43-E96F91275B45_2023_1_12_1_6_42_927..stp','2023-01-12T00:06:43',('maxon motor ag'),('CADClick - www.CADClick.com'),'Spatial InterOp 3D',' ','unknown authorization');
+FILE_NAME('cctmp_66B31C48-6D2C-423F-96E5-CCB0C3E6F1A3_2023_1_17_0_59_37_217..stp','2023-01-16T23:59:37',('maxon motor ag'),('CADClick - www.CADClick.com'),'Spatial InterOp 3D',' ','unknown authorization');
 FILE_SCHEMA(('AUTOMOTIVE_DESIGN'));
 ENDSEC;
 DATA;
