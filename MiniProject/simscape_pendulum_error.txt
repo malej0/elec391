@@ -1,0 +1,4 @@
+Constrained Instances: 'shaft_test-1', 'pendulum_rev2-1'
+Constraint Name: Universal Joint5
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
