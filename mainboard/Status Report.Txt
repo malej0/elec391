@@ -1,0 +1,29 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [PCB_Project.PrjPcb]
+   Generated File[PCB_Project.GTO]
+   Generated File[PCB_Project.GTS]
+   Generated File[PCB_Project.GTL]
+   Generated File[PCB_Project.GBL]
+   Generated File[PCB_Project.GBS]
+   Generated File[PCB_Project.GM1]
+   Generated File[PCB_Project.GM2]
+   Generated File[PCB_Project.GM3]
+   Generated File[PCB_Project.GM5]
+   Generated File[PCB_Project.GM13]
+   Generated File[PCB_Project.GM15]
+   Generated File[PCB_Project.GM16]
+   Generated File[PCB_Project.GKO]
+   Generated File[PCB_Project.GPT]
+   Generated File[PCB_Project.GPB]
+   Generated File[PCB_Project.GD1]
+   Generated File[PCB_Project.GG1]
+   Generated File[PCB_Project.GM]
+   Generated File[PCB_Project.EXTREP]
+   Generated File[PCB_Project.REP]
+
+
+Files Generated   : 20
+Documents Printed : 0
+
+Finished Output Generation At 17:47:21 On 2023-03-30
